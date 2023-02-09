@@ -24,3 +24,4 @@
 
 
 ## 🤖프로젝트 아키텍처
+![모하비 아키텍처](https://user-images.githubusercontent.com/105850728/217835892-fe5f65a4-4b31-4a8e-a38d-a1fef2a91e39.jpg)
